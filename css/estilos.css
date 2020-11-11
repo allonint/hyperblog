@@ -46,8 +46,8 @@ body {
 }
 
 footer {
-
+    color: white;
     text-align: center;
-    background: chocolate;
+    background: #33a;
     padding: 2px;
 }
